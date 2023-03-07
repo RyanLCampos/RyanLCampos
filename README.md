@@ -22,13 +22,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: ryanlcampos19@gmail.com">
-      <img width="30" src="gmail.png">
+      <img width="30" src="gmailredondo.png">
     </a>
     <a href = "https://www.linkedin.com/in/ryan-lucas-pires-campos-56a9a7227/">
-      <img width="25" src="linkedin.png">
+      <img width="30" src="linkedin.png">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
+      <img width="28" src="instagram.png">
     </a>
 </div>
   
