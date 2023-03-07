@@ -25,7 +25,7 @@
     <a href = "https://www.linkedin.com/in/ryan-lucas-pires-campos-56a9a7227/" target="_blank">
       <img width="30" src="linkedin.png">
     </a>
-    <a href = "https://www.instagram.com/ryan_lucas16/" target="_blank" rel="noopener noreferrer"> 
+    <a href = "https://www.instagram.com/ryan_lucas16/"> 
       <img width="28" src="instagram.png">
     </a>
 </div>
