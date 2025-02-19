@@ -1,33 +1,32 @@
 ## Meu nome é Ryan Lucas! Seja Bem-vindo ao meu GitHub!
 
-<div>
-  <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryanlcampos&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryanlcampos&layout=compact&langs_count=16&theme=nightowl"/>
+<div style="display: flex; justify-content: center;">
+  <img style="height: 100%; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=ryanlcampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img style="height: 100%; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlcampos&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
+
 <br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias</h1>
-    <img align="center" height="50" width="60" alt="java-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-    <img align="center" height="30" width="30" alt="python-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="60" width="70" alt="sql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-   </div>
-    
-  
+<div align="center">
+  <h1 align="center">Tecnologias</h1>
+  <div style="display: inline-block; margin-bottom: 20px;">
+    <img align="center" height="70" width="70" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="margin-right: 10px;">
+    <img align="center" height="70" width="70" alt="spring-icon" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original-wordmark.svg#L1" style="margin-right: 10px;">
+    <img align="center" height="70" width="70" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 10px;">
+    <img align="center" height="40" width="40" alt="python-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="margin-right: 10px;">
+    <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 10px;">
+    <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+
+  <br>
+
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: ryanlcampos19@gmail.com">
-      <img width="30" src="gmailredondo.png">
+  <div style="text-align: center;">
+    <a href="mailto:ryanlcampos19@gmail.com">
+      <img height="50" width="50" src="gmailredondo.png" style="margin-right: 10px;">
     </a>
-    <a href = "https://www.linkedin.com/in/ryan-lucas-pires-campos-56a9a7227/" target="_blank">
-      <img width="30" src="linkedin.png">
+    <a href="https://www.linkedin.com/in/ryan-lucas-pires-campos-56a9a7227/" target="_blank">
+      <img height="50" width="50" src="linkedin.png">
     </a>
-    <a href = "https://www.instagram.com/ryan_lucas16/"> 
-      <img width="28" src="instagram.png">
-    </a>
+  </div>
 </div>
-  
-![Snake animation](https://github.com/RyanLCampos/RyanLCampos/blob/output/github-contribution-grid-snake.svg)
