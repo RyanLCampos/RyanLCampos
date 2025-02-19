@@ -1,4 +1,4 @@
-## Sou Ryan Lucas, bem vindo ao meu Github!
+## Meu nome é Ryan Lucas! Seja Bem-vindo ao meu GitHub!
 
 <div>
   <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryanlcampos&show_icons=true&theme=nightowl&include_all_commits=false&count_private=true"/>
