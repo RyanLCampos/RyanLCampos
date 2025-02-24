@@ -1,7 +1,7 @@
 ## Meu nome é Ryan Lucas! Seja Bem-vindo ao meu GitHub!
 
 <div style="display: flex; justify-content: center;">
-  <img style="height: 100%; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=ryanlcampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img style="height: 100%; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=RyanLCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img style="height: 100%; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlcampos&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
