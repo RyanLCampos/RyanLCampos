@@ -1,32 +1,46 @@
-## Meu nome é Ryan Lucas! Seja Bem-vindo ao meu GitHub!
+# Ryan Lucas
 
-<div style="display: flex; justify-content: center;">
-  <img style="height: 100%; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=RyanLCampos&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img style="height: 100%; width: 33%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlcampos&layout=compact&langs_count=16&theme=tokyonight" />
-</div>
+**`Desenvolvedor Backend Java`**
+
+---
+
+### Stack Principal
 
 <br>
 
-<div align="center">
-  <h1 align="center">Tecnologias</h1>
-  <div style="display: inline-block; margin-bottom: 20px;">
-    <img align="center" height="70" width="70" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="margin-right: 10px;">
-    <img align="center" height="70" width="70" alt="spring-icon" src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original-wordmark.svg#L1" style="margin-right: 10px;">
-    <img align="center" height="70" width="70" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="margin-right: 10px;">
-    <img align="center" height="40" width="40" alt="python-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="margin-right: 10px;">
-    <img align="center" height="40" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 10px;">
-    <img align="center" height="40" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-  <br>
+### Outras Linguagens e Tecnologias
 
-  <h1 align="center">Redes Sociais</h1>
-  <div style="text-align: center;">
-    <a href="mailto:ryanlcampos19@gmail.com">
-      <img height="50" width="50" src="gmailredondo.png" style="margin-right: 10px;">
-    </a>
-    <a href="https://www.linkedin.com/in/ryan-lucas-pires-campos-56a9a7227/" target="_blank">
-      <img height="50" width="50" src="linkedin.png">
-    </a>
-  </div>
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ryanlucaspc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="ryanlcampos19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
 </div>
