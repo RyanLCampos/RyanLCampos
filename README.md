@@ -1,10 +1,16 @@
-# Ryan Lucas
+# 👋💻 Olá, eu sou Ryan Lucas!
 
-**`Desenvolvedor Backend Java`**
+**`Desenvolvedor Backend Java`** • **`Ciência da Computação`** • **`22 anos`**
+
+<br>
+
+💡 Apaixonado por tecnologia e desenvolvimento de software.<br>
+☕ Focado em **Java e ecossistema Spring**.  
+👨‍💻 Buscando primeira oportunidade na área.
 
 ---
 
-### Stack Principal
+### **`Stack Principal`**
 
 <br>
 
@@ -20,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-### Outras Linguagens e Tecnologias
+### **`Outras Linguagens e Tecnologias`**
 
 <br>
 
@@ -38,9 +44,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ryanlucaspc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="ryanlcampos19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
