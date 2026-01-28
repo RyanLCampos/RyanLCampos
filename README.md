@@ -1,11 +1,19 @@
 # 👋💻 Olá, eu sou o Ryan Lucas!
 
-**`Desenvolvedor Backend Java`** • **`Expandindo para o Frontend`** • **`Ciência da Computação`** • **`22 anos`**
+**`Desenvolvedor Fullstack`** • **`Ciência da Computação`** • **`23 anos`**
 
 💡 Apaixonado por tecnologia, desenvolvimento de software e aprender novas stacks.  
 ☕ Experiência com **Java e ecossistema Spring**.  
 🎯 **Expandindo meu foco de carreira para o Frontend, estudando JavaScript e React.**  
 👨‍💻 Em busca da minha primeira oportunidade na área.
+
+---
+
+### 🔗 **Portfólio**
+
+<a href="https://ryanlcampos.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-Visitar-0d98c2?style=for-the-badge&logo=githubpages&logoColor=white" height="30"/>
+</a>
 
 ---
 
